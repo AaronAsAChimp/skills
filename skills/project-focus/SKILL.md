@@ -1,5 +1,5 @@
 ---
-name: focus
+name: project-focus
 description: Helps the get the project to completion.
 ---
 
