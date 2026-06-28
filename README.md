@@ -35,10 +35,10 @@ npx skills add aaronasachimp/skills
 Or install individual skills:
 
 ```sh
-npx skills add aaronasachimp/skills/porting-code
-npx skills add aaronasachimp/skills/video
-npx skills add aaronasachimp/skills/focus
-npx skills add aaronasachimp/skills/brainstorm
+npx skills add aaronasachimp/skills --skill porting-code
+npx skills add aaronasachimp/skills --skill video
+npx skills add aaronasachimp/skills --skill focus
+npx skills add aaronasachimp/skills --skill brainstorm
 ```
 
 ## Usage
