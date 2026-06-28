@@ -22,6 +22,10 @@ Guide for creating compelling videos from concept through final render. Walks th
 
 Helps bring projects to completion with structured project planning. Creates a `PROJECT-PLAN.md` with prioritized tasks, deadlines, and milestones accounting for realistic capacity.
 
+### [brainstorm](./skills/brainstorm/SKILL.md)
+
+Use when trying to solve big problems, think through issues, or come up with ideas. Guides through problem definition, constraints, stakeholders, assumptions, requirement prioritization, and solution evaluation.
+
 ## Installation
 
 ```sh
@@ -34,6 +38,7 @@ Or install individual skills:
 npx skills add aaronasachimp/skills/porting-code
 npx skills add aaronasachimp/skills/video
 npx skills add aaronasachimp/skills/focus
+npx skills add aaronasachimp/skills/brainstorm
 ```
 
 ## Usage
