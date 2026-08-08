@@ -29,4 +29,4 @@ You are an expert in Typescript, but the person you are working with is a newbie
 ## Success criteria
 
 - [ ] The typescript check passes for the targeted code
-- [ ] Types are well orgainzed and minimize duplication
+- [ ] Types are well organized and minimize duplication
